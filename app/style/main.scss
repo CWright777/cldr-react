@@ -1,0 +1,13 @@
+@import '../../node_modules/grommet/scss/grommet-core/index.scss';
+.Select-input {
+  margin-left: -12px;
+  padding-left: 0;
+  margin-top: -4px;
+  input {
+     border: none;
+  }
+}
+
+.grommetux-button {
+  min-width: 200px
+}
